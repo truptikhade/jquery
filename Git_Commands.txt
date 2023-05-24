@@ -1,0 +1,19 @@
+git config --list
+git config --global user.name “Username”
+git config --global user.email example@email.com
+git config –list
+mkdir myproject
+cd myproject
+git init
+git status
+git add index.html
+git add --all
+git   "First release of Hello World!"
+git "Updated index.html with a new line"
+git log
+git command -help
+git checkout master
+git push --set-upstream origin master
+git fetch origin
+git merge origin/master
+git pull origin
